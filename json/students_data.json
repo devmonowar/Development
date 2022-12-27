@@ -1,0 +1,80 @@
+{
+    "student" : [
+        {
+            "name" : "Monowar Hossain",
+            "middlename" : null,
+            "age" : 27,
+            "cgpa" : 4.25,
+            "isRegistered" : true,
+            "language" : [ "Bengali", "English", "Hindi" ],
+            "friends" : [
+                {
+                    "name" : "Anar",
+                    "age" : 25
+                },
+                {
+                    "name" : "Ruhul",
+                    "age" : 28
+                }
+            ]
+        },
+        {
+            "name" : "Rabeya Begum",
+            "middlename" : null,
+            "age" : 30,
+            "cgpa" : 3.92,
+            "isRegistered" : false,
+            "language" : [ "Bengali", "English", "finnish", "Hindi" ],
+            "friends" : [
+                {
+                    "name" : "Shakila",
+                    "age" : 24
+                },
+                {
+                    "name" : "Jumur",
+                    "age" : 26
+                }
+            ]
+        }
+    ],
+    "student2" : [
+        {
+            "name" : "Monowar Hossain2",
+            "middlename" : null,
+            "age" : 27,
+            "cgpa" : 4.25,
+            "isRegistered" : true,
+            "language" : [ "Bengali", "English", "Hindi" ],
+            "friends" : [
+                {
+                    "name" : "Anar",
+                    "age" : 25
+                },
+                {
+                    "name" : "Ruhul",
+                    "age" : 28
+                }
+            ]
+        },
+        {
+            "name" : "Rabeya Begum2",
+            "middlename" : null,
+            "age" : 30,
+            "cgpa" : 3.92,
+            "isRegistered" : false,
+            "language" : [ "Bengali", "English", "finnish", "Hindi" ],
+            "friends" : [
+                {
+                    "name" : "Shakila",
+                    "age" : 24
+                },
+                {
+                    "name" : "Jumur",
+                    "age" : 26
+                }
+            ]
+        }
+    ]
+
+}
+
