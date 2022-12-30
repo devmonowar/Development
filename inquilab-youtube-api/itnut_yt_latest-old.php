@@ -1,9 +1,9 @@
 <?php
 
 // https://www.googleapis.com/youtube/v3/search?order=date&part=snippet&channelId=UC1RJ3aEdvBMJSinziVp0U2Q&maxResults=40&key=AIzaSyDNfG_mM1JDMPFOd-JCsGv-RRywqCq22S0
-include('/home/daily1nqilab809/public_html/includes/config.php');
+//include('/home/daily1nqilab809/public_html/includes/config.php');
 //Get videos from channel by YouTube Data API
-$API_key    = 'AIzaSyDNfG_mM1JDMPFOd-JCsGv-RRywqCq22S0';
+//$API_key    = 'AIzaSyDNfG_mM1JDMPFOd-JCsGv-RRywqCq22S0';
 //API created by IT Nut Hosting
 $channelID  = 'UC1RJ3aEdvBMJSinziVp0U2Q';
 $maxResults = 40;
