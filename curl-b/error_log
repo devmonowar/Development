@@ -1,0 +1,7 @@
+[27-Dec-2022 11:32:42 Asia/Dhaka] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/wbvpburp/public_html/curl/simple_html_dom.php on line 82
+[27-Dec-2022 11:32:42 Asia/Dhaka] PHP Warning:  file_get_contents(https://www.prothomalo.com/): failed to open stream: no suitable wrapper could be found in /home/wbvpburp/public_html/curl/simple_html_dom.php on line 82
+[27-Dec-2022 11:32:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to a member function find() on bool in /home/wbvpburp/public_html/curl/savedata.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wbvpburp/public_html/curl/savedata.php on line 10
+[27-Dec-2022 11:35:44 Asia/Dhaka] PHP Notice:  Trying to get property 'plaintext' of non-object in /home/wbvpburp/public_html/curl/savedata.php on line 10
